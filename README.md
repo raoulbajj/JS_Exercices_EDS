@@ -18,7 +18,7 @@ Avant de commencer les exercices, chaque élève doit créer sa propre branche d
 
 ### Travail sur les Exercices
 
-Dans votre branche, travaillez sur les exercices fournis. Attention : ne poussez jamais votre code directement dans la branche principale (main). Une fois que vous avez terminé les exercices, poussez votre code sur votre branche et créez une demande de fusion pour la revue de code.
+Dans votre branche, travaillez sur les exercices fournis. Une fois que vous avez terminé les exercices, pushez votre code sur votre branche.
 
 ## Exercice 1 : Conversion de Températures
 
