@@ -1,0 +1,7 @@
+Créez dans Ex_07 votre projet vite, placez vous avec le terminal à cet endroit et faites :
+
+========================
+'npm create vite@latest'
+========================
+
+Suivez les instructions, pas de TypeScript pour l'instant, en javascript normal.
