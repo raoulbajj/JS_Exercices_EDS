@@ -121,4 +121,18 @@ Utilisez l'événement `onsubmit` sur le formulaire pour intercepter la soumissi
 
 ### Description
 
-Créez une page Web avec quelques éléments HTML (par exemple, des paragraphes, des images, des boutons). Utilisez JavaScript
+Créez une page Web avec quelques éléments HTML (par exemple, des paragraphes, des images, des boutons). Utilisez JavaScript pour modifier ces éléments de manière dynamique (par exemple, changer le texte, déplacer des images, changer la couleur des boutons, etc.).
+
+### Indice
+
+Utilisez les méthodes du DOM comme `getElementById()` ou `querySelector()` pour sélectionner des éléments et les modifier.
+
+## Exercice 10 : Gestionnaire d'Événements
+
+### Description
+
+Ajoutez des gestionnaires d'événements à votre page Web (de l'exercice 9). Par exemple, changez le contenu d'un paragraphe lorsque l'utilisateur survole une image, ou affichez une alerte lorsque l'utilisateur clique sur un bouton.
+
+### Indice
+
+Utilisez `addEventListener()` pour attacher des événements aux éléments du DOM.
