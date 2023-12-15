@@ -1,4 +1,4 @@
-# Exercices JavaScript pour Débutants
+# Exercices JavaScript EDS
 
 Bienvenue dans cette série d'exercices conçus pour vous aider à vous familiariser avec les bases de la programmation JavaScript. Chaque exercice vise à renforcer une compétence spécifique en JavaScript.
 
